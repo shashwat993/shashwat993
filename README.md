@@ -14,9 +14,7 @@
 * 📱 I make apps for Web & Android.
 * 🎓 I'm a B.Tech Student at IIT Mandi.
 * 🌐 You can see some of my projects on [my portfolio]()
-* 💻 Regularly participate in competitive programming contests in
-*
-   <a src='https://codeforces.com/profile/jisas' > Codeforces </a>
+* 💻 Regularly participate in competitive programming contests in  `Codeforces `.
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
