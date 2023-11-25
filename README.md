@@ -65,19 +65,19 @@
   <tr>
      <td align="center" width="96">
       <a href="#nuxtjs" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
       </a>
       <br>PHP
     </td>
       <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Laravel
     </td>
       <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="48" height="48" alt="Django" />
       </a>
       <br>MySQL
     </td>
@@ -89,10 +89,10 @@
     </td>
      <td align="center" width="96">
         <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
+            <svg viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M64.004 0H34.102l29.902 61.848" fill="#1697F6"/><path d="M64.004 80v48L0 18.664h33.527L64.004 80zm0- 
+             80h29.898L64.004 61.848" fill="#7BC6FF"/><path d="M94.473 18.664H128L64.004 128V80l30.469-61.336z" fill="#AEDDFF"/></svg>
         </a>
-        <br>Livewire
+        <br>Vuetify
     </td>
     <td align="center" width="96">
         <a href="#alpinejs">
