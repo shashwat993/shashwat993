@@ -12,9 +12,9 @@
 
 * 💻 I'm a full stack web developer.
 * 📱 I make apps for Web & Android.
-* 🎓 I'm a B.Tech Student at IIT Mandi.
-* 🌐 You can see some of my projects on [my portfolio]()
-* 💻 Regularly participate in competitive programming contests in  `Codeforces `.
+* 🎓 I'm a B.Tech Student at `IIT Mandi`.
+* 🌐 You can see some of my projects on [Click](https://codeforces.com/profile/jisas).
+* 💻 Regularly participate in competitive programming contests in  [Codeforces](https://codeforces.com/profile/jisas)..
 
 <p align="left">
   <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
