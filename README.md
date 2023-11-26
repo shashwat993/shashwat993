@@ -79,7 +79,7 @@
       <a href="#laravel">
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>MySQL
+      <br>Django
     </td>
      <td align="center" width="96">
       <a href="#ts">
