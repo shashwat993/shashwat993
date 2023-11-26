@@ -67,13 +67,13 @@
       <a href="#nuxtjs" >
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
       </a>
-      <br>PHP
+      <br>ReactJS
     </td>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Laravel
+      <br>Python
     </td>
       <td align="center" width="96">
       <a href="#laravel">
